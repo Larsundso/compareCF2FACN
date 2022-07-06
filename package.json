@@ -1,0 +1,16 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fast-average-color-node": "^2.4.0",
+    "get-pixels": "^3.3.3",
+    "quantize": "^1.0.2"
+  }
+}
